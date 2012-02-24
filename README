@@ -1,0 +1,5 @@
+This application is an implementation of a n-body simulation in Javascript.
+
+It mainly uses Three.js with WebGL Renderer. This project is for educational
+purposes, and its primarily goal to use learn the concept of OOP using 
+Javascript.
