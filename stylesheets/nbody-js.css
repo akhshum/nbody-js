@@ -1,0 +1,12 @@
+body {
+	background: #000;
+	margin: 0px;
+	overflow: hidden;
+}
+
+#container {
+	position: absolute;
+	top: 0px;
+	width: 100%;
+	padding: 5px;
+}
